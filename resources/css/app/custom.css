@@ -1,0 +1,22 @@
+.color-white {
+    color: white!important;
+}
+.vdp-datepicker * {
+    box-sizing: border-box;
+    background-color: #fff !important;
+}
+.vdp-datepicker .vdp-datepicker__calendar .cell.selected {
+    background: #4bd !important;
+}
+.arrow-block {
+    padding-top: 1px;
+    max-width:155px !important;
+    width:155px !important;
+    flex: none !important;
+}
+
+.schedule-main-date {
+    padding-top: 9px;
+    padding-left: 2px;
+    font-weight: bold;
+}
